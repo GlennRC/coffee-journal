@@ -15,3 +15,17 @@ A personal journal for tracking coffee tastings, brew recipes, roast notes, and 
    ```bash
    git clone https://github.com/GlennRC/coffee-journal.git
    cd coffee-journal
+   ```
+3. Add entries in `entries/` as Markdown files, or implement a small app in `src/`.
+
+## Suggested structure
+- entries/            - Markdown files with tasting notes
+- src/                - web app / scripts
+- docs/               - documentation
+- data/               - export/import helpers
+
+## Contributing
+Pull requests welcome. Please open issues for feature requests or bugs.
+
+## License
+This project is released under the MIT License. See LICENSE for details.
